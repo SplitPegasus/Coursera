@@ -9,10 +9,13 @@ h1 {
 }
 
 p {
+	width: 90%;
+	height: 90%;
 	font-size: 100%;
-	margin-left: 20px;
-	margin-top: 24px;
-	margin-right: 15px;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: auto;
 }
 
 .container {
@@ -24,6 +27,7 @@ p {
 	margin-right: auto;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	overflow: hidden;
 }
 
 .containerSushi {
@@ -35,6 +39,7 @@ p {
 	margin-right: auto;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	overflow: hidden;
 }
 
 .chicken, .beef, .sushi {
