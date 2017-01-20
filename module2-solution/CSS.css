@@ -204,4 +204,14 @@ p {
   .col-sm-12 {
     width: 100%;
   }
+  .containerSushi {
+	background-color: gray;
+	border: 1px solid black;
+	height: 150px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	}
 }
